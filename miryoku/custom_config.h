@@ -5,11 +5,6 @@
 #define XXX &none
 
 
-
-#if !defined (MIRYOKU_LAYOUTMAPPING_CORNE)
-
-#define XXX &none
-
 #define MIRYOKU_LAYER_GAME \
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
 &kp A,             &kp S,             &kp D,             &kp F,             &kp G,             &kp H,             &kp J,             &kp K,             &kp L,             &kp SQT,           \
